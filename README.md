@@ -78,6 +78,6 @@ Si encuentras algún error o tienes alguna sugerencia para mejorar el proyecto, 
 Este proyecto se basa en el tutorial de Fazt Code: Django CRUD con Autenticacion y Despliegue Gratuito
 El código fuente original del curso de Django se encuentra en: https://github.com/fazt/django-notes
 
-*Firma: * xSnazzyC
+*Firma: * SnayderCJ
 
 ## Si tienes alguna pregunta o sugerencia, no dudes en contactarme. 😊 
