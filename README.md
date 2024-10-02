@@ -72,7 +72,7 @@ Este proyecto es una aplicación web completa desarrollada con Django, el framew
 Sigue las instrucciones detalladas en el video tutorial para desplegar tu aplicación en Render.com de forma gratuita.
 
 ## Contribuciones
-¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes alguna sugerencia para mejorar el proyecto, no dudes en abrir un issue o enviar un pull request.
+Si encuentras algún error o tienes alguna sugerencia para mejorar el proyecto, no dudes en abrir un issue o enviar un pull request.
 
 ## Créditos
 Este proyecto se basa en el tutorial de Fazt Code: Django CRUD con Autenticacion y Despliegue Gratuito
