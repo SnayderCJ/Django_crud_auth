@@ -3,7 +3,6 @@ from django.shortcuts import redirect, render
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 from django.contrib.auth import login, logout, authenticate
-from django.http import HttpResponse
 
 # Create your views here.
 
@@ -35,3 +34,6 @@ def signup(request):
             "form": UserCreationForm, 
             "error": "Passwords did not match."
             })
+    
+def tasks(request):
+    return render(request, 'tasks.html')
