@@ -37,3 +37,7 @@ def signup(request):
     
 def tasks(request):
     return render(request, 'tasks.html')
+
+def signout(request):
+    logout(request)
+    return redirect('home')
