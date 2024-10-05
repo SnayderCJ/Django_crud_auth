@@ -1,1 +1,7 @@
-django
+asgiref
+autopep8
+backports.zoneinfo
+Django
+pycodestyle
+sqlparse
+toml
